@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div><img height="45%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=juanbuades&show_icons=true&theme=darcula&hide_border=true&bg_color=00000000">
+<img height="35%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=juanbuades&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+</div>
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=juanbuades&theme=darcula&hide_border=true&background=FFFFFF00">
+
 <!--
 **juanbuades/juanbuades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
